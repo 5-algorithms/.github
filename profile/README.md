@@ -1,7 +1,7 @@
 # Algorithm study
 
 ## Rule
-- just 5 commits every week
+- 일주일(월-일)에 5문제 이상 알고리즘 문제 풀이 후 깃에 커밋하기
 - 난이도 제한 없음
 
 ## Penalty
