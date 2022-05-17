@@ -4,9 +4,6 @@
 - 일주일(월-일)에 5문제 이상 알고리즘 문제 풀이 후 깃에 커밋하기
 - 난이도 제한 없음
 
-## Penalty
-
----
 ## Members
 강나경|김산|김소연|김현지|안예린|양민영|이현희|장효선|정민지|최지연
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
@@ -18,7 +15,9 @@
 
 ### do it!
 > [백준](https://www.acmicpc.net/)
+> 
 > [프로그래머스](https://programmers.co.kr/)
+> 
 > [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
 ## 관련 자료
